@@ -1,0 +1,108 @@
+body {
+  font-family: "Nunito", sans-serif;
+  margin: 0; }
+
+@media (max-width: 768px) {
+  .header-content h1 {
+    padding: 20px;
+    font-size: 35px; }
+
+  .nav-item img {
+    height: 40px;
+    padding-top: 15px; } }
+@media (min-width: 769px) {
+  .header-content h1 {
+    padding: 20px 0;
+    font-size: 60px; }
+
+  .nav-item img {
+    height: 60px;
+    padding: 30px 0 0 0; } }
+header {
+  background-image: url(../img/relax.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  background-blend-mode: overlay;
+  height: 800px;
+  text-align: center; }
+
+.header-content a {
+  padding: 15px 30px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  background: #42b4d6;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, width 0.3s ease, opacity 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  font-family: "Nunito", sans-serif; }
+.header-content p {
+  margin-top: 30px;
+  font-size: 13px; }
+
+.nav-item {
+  list-style: none; }
+
+@media (max-width: 768px) {
+  .footer-container {
+    padding: 45px 20px 65px; }
+
+  .footer-list {
+    float: none;
+    margin: 20px 0;
+    text-align: center; }
+
+  .footer-junk {
+    text-align: center; }
+
+  .social-media {
+    text-align: center;
+    margin-bottom: 50px; } }
+@media (min-width: 769px) {
+  .footer-container {
+    padding: 70px 0; }
+
+  .footer-nav, .footer-junk, .social-media {
+    max-width: 1048px;
+    padding: 0 20px;
+    margin: 0 auto; }
+
+  .footer-item {
+    margin: 20px 0; }
+
+  .footer-list {
+    display: inline-block; } }
+.footer-container {
+  background: #333;
+  clear: both; }
+
+.footer-item {
+  padding-left: 0; }
+
+.footer-item a {
+  text-decoration: none;
+  margin: 0 10px 0 0;
+  color: #BBB; }
+
+.footer-item a:hover {
+  color: #00d664; }
+
+.footer-list {
+  list-style: none;
+  transition: 0.3s ease;
+  font-size: 20px;
+  font-weight: bold; }
+
+.footer-junk {
+  color: #777;
+  font-size: 15px; }
+
+.social-media img {
+  width: 28px;
+  margin-right: 10px; }
+
+/*# sourceMappingURL=main.css.map */

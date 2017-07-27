@@ -8,6 +8,6 @@
 
 **CDN**
 
-[Use the compressed, production normalize.min.css v1.0.0](https://codecarrotnet.github.io/normalize.css/normalize.min.css)
+[Use the compressed, production normalize.min.css v1.0.0](https://codecarrotnet.github.io/normalize.css/css/normalize.min.css)
 
-[Use the uncompressed, development normalize.css v1.0.0](https://codecarrotnet.github.io/normalize.css/normalize.css)
+[Use the uncompressed, development normalize.css v1.0.0](https://codecarrotnet.github.io/normalize.css/css/normalize.css)

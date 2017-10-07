@@ -27,7 +27,7 @@ header {
   height: 800px;
   text-align: center; }
 
-.header-content a {
+.header-content .cta {
   padding: 15px 30px;
   color: #fff;
   font-size: 16px;
